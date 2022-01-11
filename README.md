@@ -5,10 +5,10 @@ Project created in React.js using Miraje.js and Axis.
 
 This project was made using the follow technologies:
 
-Typescript
-React
-Styled Components
-MirageJS
+Typescript     
+React.    
+Styled Components.   
+MirageJS   
 
 
 💻 How to run
