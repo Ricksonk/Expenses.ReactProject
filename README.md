@@ -14,6 +14,7 @@ MirageJS
 💻 How to run
 # Clone Repository
 $ git clone https://github.com/Ricksonk/Expenses.ReactProject.git
+   
  Install Dependencies yarn
 
 
